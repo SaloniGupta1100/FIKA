@@ -84,5 +84,5 @@ To save users from losing their information again whenever they change a device 
 - More aids shall be provided to help with conditions like PCOS, Endometriosis and Early Menopause
 
 ## Contact Support 
-- kaavya1906@gmal.com
+- kaavya1906@gmail.com
 - officialetc01@gmail.com
